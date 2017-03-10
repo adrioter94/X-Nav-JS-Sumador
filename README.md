@@ -7,4 +7,4 @@ Realiza un sumador como el descrito en el ejercicio “Sumador JavaScript muy si
 
 ##Try me
 [Try me!](https://adrioter94.github.io/X-Nav-JS-Sumador)
-(No funciona)
+(OK)
